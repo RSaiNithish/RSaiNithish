@@ -12,10 +12,10 @@ I am **Sai Nithish**, final year Master's **Data Science** student.<br>
 <br><br>📙 **Repo info**
 |#|Repository|DESCRIPTION| Language |
 |-|-|-|-|
-|1.|[Computer-vison](https://github.com/RSaiNithish/computer-vision)|Projects on traditional and learning based computer vision.|![Python](https://cdn-icons-png.flaticon.com/512/5968/5968286.png)
-|2.|[Connect-CLI](https://github.com/RSaiNithish/Connect-CLI)|A simple implementation of pure Peer-to-Peer communication|![Python](https://cdn-icons-png.flaticon.com/512/5968/5968286.png)
-|3.|[LeetCode](https://github.com/RSaiNithish/leetcode)|Solution to LeetCode problems|![Python](https://cdn-icons-png.flaticon.com/512/5968/5968286.png)
-|4.|[MDSC-301](https://github.com/RSaiNithish/MDSC-301)|Repository of ML notebooks created as a part of ML course in SSSIHL|![Python](https://cdn-icons-png.flaticon.com/512/5968/5968286.png)
+|1.|[Computer-vison](https://github.com/RSaiNithish/computer-vision)|Projects on traditional and learning based computer vision.|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="50" height="50">
+|2.|[Connect-CLI](https://github.com/RSaiNithish/Connect-CLI)|A simple implementation of pure Peer-to-Peer communication|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="50" height="50">
+|3.|[LeetCode](https://github.com/RSaiNithish/leetcode)|Solution to LeetCode problems|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="50" height="50">
+|4.|[MDSC-301](https://github.com/RSaiNithish/MDSC-301)|Repository of ML notebooks created as a part of ML course in SSSIHL|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="50" height="50">
 |||||
 
 <br><br>**Programming Languages known:**<br>
