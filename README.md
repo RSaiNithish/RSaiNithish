@@ -18,20 +18,6 @@ I am **Sai Nithish**, final year Master's **Data Science** student.<br>
 |4.|[MDSC-301](https://github.com/RSaiNithish/MDSC-301)|Repository of ML notebooks created as a part of ML course in SSSIHL|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="50" height="50">
 |||||
 
-<br><br>**Programming Languages known:**<br>
-|LANGUAGE|LEVEL
-|-|-|
-| Python | Advanced
-| R | Intermediate
-| Java | Intermediate
-| C++ | Intermediate 
-| C | Intermediate
-|||
-
-
-
-
-
 
 <br><br> **REACH ME**<br>
 &emsp;&emsp;&emsp;
