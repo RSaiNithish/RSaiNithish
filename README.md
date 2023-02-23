@@ -13,8 +13,8 @@ I am **Sai Nithish**, <br>
 <br><br>📙 **Repo info**
 |#|Repository|DESCRIPTION| Language |
 |-|-|-|-|
-|1.|[Computer-vison](https://github.com/RSaiNithish/computer-vision)|Projects on traditional and learning based computer vision.|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="50" height="50">
-|2.|[Cyb3r-S3curity](https://github.com/RSaiNithish/cyb3r-s3curity)|Projects in cybersecurity|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="50" height="50">
+|1.|[Computer-vison](https://github.com/RSaiNithish/computer-vision)|Repository with projects on traditional and learning based computer vision.|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="50" height="50">
+|2.|[Cyb3r-S3curity](https://github.com/RSaiNithish/cyb3r-s3curity)|Repository with projects in cybersecurity|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="50" height="50">
 |3.|[Connect-CLI](https://github.com/RSaiNithish/Connect-CLI)|A simple implementation of pure Peer-to-Peer communication|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="50" height="50">
 |4.|[LeetCode](https://github.com/RSaiNithish/leetcode)|Solution to LeetCode problems|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="50" height="50">
 |5.|[MDSC-301](https://github.com/RSaiNithish/MDSC-301)|Repository of ML notebooks created as a part of ML course in SSSIHL|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="50" height="50">
