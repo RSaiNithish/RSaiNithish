@@ -15,12 +15,12 @@ I am **Sai Nithish**, <br>
 |-|-|-|-|
 |1.|[Vison](https://github.com/RSaiNithish/Vision)|Repository with projects on traditional and learning based computer vision.|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="50" height="50">
 |2.|[Cyb3r-S3curity](https://github.com/RSaiNithish/cyb3r-s3curity)|Repository with projects in cybersecurity|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="50" height="50">
-|3.|[Machine Learning](https://github.com/RSaiNithish/Machine-Learning)|Repository of notebooks with various machine learning algorithms implemented on popular datasets|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="50" height="50">
+|3.|[Machine-Learning](https://github.com/RSaiNithish/Machine-Learning)|Repository of notebooks with various machine learning algorithms implemented on popular datasets|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="50" height="50">
 |4.|[Web-Scrapping](https://github.com/RSaiNithish/Web-Scrapping)|Repository with various web scrapping tools|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="50" height="50">
-|5.|[Web-Automation](https://github.com/RSaiNithish/Web-Automation)|Repository with web automation sctripts|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="50" height="50">
+|5.|[Web-Automation](https://github.com/RSaiNithish/Web-Automation)|Repository with web automation scripts|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="50" height="50">
 |6.|[LeetCode](https://github.com/RSaiNithish/leetcode)|Solution to LeetCode problems|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="50" height="50">
-|7.|[Pico](https://github.com/RSaiNithish/Pico)|Batch image compression app using imgae interpolation|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="50" height="50">
-
+|7.|[Pico](https://github.com/RSaiNithish/Pico)|Batch image compression app|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="50" height="50">
+|8.|[Connect-CLI](https://github.com/RSaiNithish/Connect-CLI)|a simple implementation of pure Peer-to-Peer communication.|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="50" height="50">
 |||||
 
 
