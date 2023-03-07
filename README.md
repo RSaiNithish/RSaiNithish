@@ -1,9 +1,9 @@
 
 ### Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 I am **Sai Nithish**, <br>
-“Greatness cannot be planned”, Being a final year postgrad student of Data Science, with the ability to choose bravery over fear and set aside apathy in favour of audacity for questioning greater “what if’s” aiming at 10X gain, I am passionately curious to use all the learnings to innovate real life solutions.<br>
+“Greatness cannot be planned”, Being a final year postgrad student of Data Science, with the ability to choose bravery over fear and set aside apathy in favour of audacity for questioning greater “what if’s” aiming at 10X gain, I am naturally curious to use all the learnings to innovate real life solutions.<br>
 
-
+<br> Visit my portfolio [SaiNithish.io](https://rsainithish.github.io/) | Still under construction... ;)
 
 
              
