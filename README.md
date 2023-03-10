@@ -3,8 +3,7 @@
 I am **Sai Nithish**, <br>
 “Greatness cannot be planned”, Being a final year postgrad student of Data Science, with the ability to choose bravery over fear and set aside apathy in favour of audacity for questioning greater “what if’s” aiming at 10X gain, I am naturally curious to use all the learnings to innovate real life solutions.<br>
 
-
-             
+     
 
 
    
