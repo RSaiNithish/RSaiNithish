@@ -6,21 +6,21 @@
 I am **Sai Nithish**, <br>
 “Greatness cannot be planned”, Being a final year postgrad student of Data Science, with the ability to choose bravery over fear and set aside apathy in favour of audacity for questioning greater “what if’s” aiming at 10X gain, I am naturally curious to use all the learnings to innovate real life solutions.<br><br>
 
-<h3> <p align="center">Reach Me @ </p></h3>
+<h3> <p align="center">Reach Me 👤 </p></h3>
 
-<p align="center">
+<p align="center">     
      <a href="mailto:nitish.lemon@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-     </a>
+          <img src="https://cdn-icons-png.flaticon.com/512/3178/3178232.png", height=50px, width=50px>
+     </a>&nbsp;&nbsp;&nbsp;
      <a href="https://www.linkedin.com/in/sainithish">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-     </a>
+          <img src="https://cdn-icons-png.flaticon.com/512/1384/1384072.png",  height=50px, width=50px>
+     </a>&nbsp;&nbsp;&nbsp;
      <a href="https://twitter.com/sainithishr">
-          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+          <img src="https://cdn-icons-png.flaticon.com/512/747/747622.png", height=50px, width=50px>
      </a>
 </p> 
 
-### Projects:
+### 💻 Projects:
 > #### Ongoing
 > - **Auto-LVEF** : Automating the process of determining left ventricular ejection fraction
 > - **RECON** : Self supervised learning for face recognition    
@@ -40,7 +40,7 @@ I am **Sai Nithish**, <br>
      - C++
 
      
-### Interests
+### 🚀 Interests
 > 
      - Data Science & AI
      - Automation
