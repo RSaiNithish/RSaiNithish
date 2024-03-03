@@ -1,6 +1,4 @@
-<p align="center">
-     <img src="https://media.licdn.com/dms/image/D5616AQF_dMdeBORBsg/profile-displaybackgroundimage-shrink_350_1400/0/1676622664137?e=1684368000&v=beta&t=BflzGAz5rfmmadBPhM52dI2CGcDSsPDhN3CtqAyg9Mw"
-</p>
+
 
 ### Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 I am **Sai Nithish**, <br>
