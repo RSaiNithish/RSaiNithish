@@ -22,10 +22,12 @@ I am **Sai Nithish**, <br>
 
 ### 💻 Projects:
 > #### Ongoing
-> - **Auto-LVEF** : Automating the process of determining left ventricular ejection fraction
-> - **RECON** : Self supervised learning for face recognition    
+> - **Report** : Using LLM to generate project report
+> - **D-NOISE** : Removing noise from speeches using deep learning
      
 > #### Completed
+> - **Auto-LVEF** : Automating the process of determining left ventricular ejection fraction
+> - **RECON** : Self supervised learning for face recognition 
 > - **MultiMedia website** : Full stack webapp for institute's gallery
 > - **Pico** : Lossless batch image compression using image interpolation
 > - **Connect** : A pure P2P communication platform
