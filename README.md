@@ -2,7 +2,7 @@
 
 ### Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 I am **Sai Nithish**, <br>
-“Greatness cannot be planned”, A Data Science enthusiast with the ability to choose bravery over fear and set aside apathy in favour of audacity for questioning greater “what if’s” aiming at 10X gain, I am naturally curious to use all the learnings to innovate real life solutions.<br><br>
+“Greatness cannot be planned”, A Data Scientist with the ability to choose bravery over fear and set aside apathy in favour of audacity for questioning greater “what if’s” aiming at 10X gain, I am naturally curious to use all the learnings to innovate real life solutions.<br><br>
 
 <h3> <p align="center">Reach Me 👤 </p></h3>
 
@@ -21,7 +21,7 @@ I am **Sai Nithish**, <br>
 ### 💻 Projects:
 > #### Ongoing
 > - **Report** : Using LLM to generate project report
-> - **D-NOISE** : Removing noise from speeches using deep learning
+> - **Enhance** : Upsaling video using deep learning
      
 > #### Completed
 > - **Auto-LVEF** : Automating the process of determining left ventricular ejection fraction
